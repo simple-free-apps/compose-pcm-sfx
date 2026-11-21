@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Compose PCM SFX</string>
+    <string name="app_subtitle">مولّد مؤثرات صوتية برمجي بلغة Kotlin عبر AudioTrack (صفر ملفات صوتية)</string>
+    <string name="badge_mit">MIT · دون ملفات صوتية مرفقة</string>
+    <string name="lang_toggle">EN / عربي</string>
+    <string name="cd_sound_on">الصوت مفعّل</string>
+    <string name="cd_sound_off">الصوت مكتوم</string>
+    <string name="label_waveform_title">الموجة المولّدة: %1$s</string>
+    <string name="label_waveform_meta_fmt">%1$d عيّنة · %2$d مللي ثانية · 44.1 kHz 16-bit PCM</string>
+    <string name="label_pitch_fmt">الحدّة: %1$.2fx</string>
+    <string name="label_volume_fmt">مستوى الصوت: %1$d%%</string>
+    <string name="btn_replay_active">إعادة تشغيل الصوت النشط</string>
+    <string name="btn_reset_controls">إعادة الضبط</string>
+    <string name="section_presets">مؤثرات جاهزة للألعاب والواجهات</string>
+    <string name="preset_tap">نقرة</string>
+    <string name="preset_confirm">تأكيد</string>
+    <string name="preset_error">خطأ</string>
+    <string name="preset_chime">رنين</string>
+    <string name="preset_victory">فوز</string>
+    <string name="preset_coin">عملة</string>
+    <string name="preset_laser">ليزر</string>
+    <string name="preset_card_flip">قلب بطاقة</string>
+    <string name="preset_pop">فرقعة</string>
+    <string name="footer_note">صفر ملفات .mp3 أو .ogg أو .wav — توليد رياضي لحظي أثناء التشغيل.</string>
+</resources>
