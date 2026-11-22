@@ -1,5 +1,7 @@
 # Compose PCM SFX — Pure-Kotlin Procedural Sound Effects for Android & Jetpack Compose
 
+[![JitPack](https://jitpack.io/v/simple-free-apps/compose-pcm-sfx.svg)](https://jitpack.io/#simple-free-apps/compose-pcm-sfx)
+
 A lightweight, **MIT-licensed**, zero-dependency procedural 16-bit PCM sound effect synthesizer and `AudioTrack` player for Kotlin, Android, and Jetpack Compose apps and games — **with zero bundled `.mp3`, `.ogg`, or `.wav` files**.
 
 ## Why Procedural PCM Audio?
@@ -8,6 +10,28 @@ A lightweight, **MIT-licensed**, zero-dependency procedural 16-bit PCM sound eff
 - **Pure-JVM Unit Testable:** `PcmSynthesizer` has zero Android framework dependencies, so waveform generation, pitch scaling, clipping bounds, and tail fades run directly on JVM JUnit tests.
 - **9 Built-In Presets + Custom Synthesis:** `TAP`, `CONFIRM`, `ERROR`, `CHIME`, `VICTORY`, `COIN`, `LASER`, `CARD_FLIP`, and `POP` (`SINE`, `TRIANGLE`, `SQUARE_SOFT`, `WHITE_NOISE`, harmonics, and ADSR envelopes).
 - **Interactive Sample App:** Bilingual English & Arabic (RTL) Jetpack Compose studio app (`:app`) with live `Canvas` waveform bar visualizer, pitch multiplier (`0.5x–2.0x`), and master volume controls.
+
+## Gradle Installation (JitPack)
+
+Add the JitPack repository in `settings.gradle.kts`:
+
+```kotlin
+dependencyResolutionManagement {
+    repositories {
+        google()
+        mavenCentral()
+        maven("https://jitpack.io")
+    }
+}
+```
+
+Then add the dependency in your module `build.gradle.kts`:
+
+```kotlin
+dependencies {
+    implementation("com.github.simple-free-apps:compose-pcm-sfx:v1.0.1")
+}
+```
 
 ## Quick Usage (`:pcm-sfx`)
 
