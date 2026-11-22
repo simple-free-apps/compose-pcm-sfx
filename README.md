@@ -49,15 +49,15 @@ Requires Android Studio / Gradle 9.6 / JDK 17 / Android SDK 37:
 
 ## Try Interactive Game Demos & Production Android Source Kits
 
-We use this exact zero-asset `AudioTrack` synthesis approach in our open-source starter and offer full commercial Android game projects on **Payhip** (instant ZIP download) and **Codester**:
+We use this exact zero-asset `AudioTrack` synthesis approach in our open-source starter and offer full commercial Android game projects on **Codester**:
 
 - **[Play Interactive Browser Puzzle Demos](https://simple-free-apps.github.io/demo/?utm_source=compose-pcm-sfx&utm_medium=readme&utm_campaign=live_demo)** — Try Liquid Sort, LanternLoom, and Kivorivane mechanics directly in your browser.
 - **[ChromaCircuit Starter (Free 5-Level Compose Puzzle Repo)](https://github.com/simple-free-apps/android-compose-puzzle-starter)** — Real-world game starter demonstrating procedural `AudioTrack` SFX + Compose Canvas.
-- **[Soravel: Puzzle Pack 5-in-1 — $12 on Payhip](https://payhip.com/b/beFfj?utm_source=compose-pcm-sfx&utm_medium=readme&utm_campaign=soravel)** ([Codester · $14](https://www.codester.com/items/76186/puzzle-pack-5-in-1-kotlin-android-game-bundle?ref=Gr8Man)) — 5 full Jetpack Compose puzzle games (`1,928+` levels).
-- **[Kivorivane (1,200 Kite-Escape Levels) — $9 on Payhip](https://payhip.com/b/WsHQp?utm_source=compose-pcm-sfx&utm_medium=readme&utm_campaign=kivorivane)** ([Codester · $14](https://www.codester.com/items/76093/kivorivane-1000-levels-kite-escape-kotlin?ref=Gr8Man)).
-- **[Orvaleth (Godot 4 3D Clockwork Puzzle) — $9 on Payhip](https://payhip.com/b/hWmcv?utm_source=compose-pcm-sfx&utm_medium=readme&utm_campaign=orvaleth)** ([Codester · $14](https://www.codester.com/items/76144/orvaleth-godot-3d-clockwork-puzzle-game?ref=Gr8Man)).
-- **[Veyravel (Godot 4 3D Action Roguelite) — $9 on Payhip](https://payhip.com/b/Jv6fL?utm_source=compose-pcm-sfx&utm_medium=readme&utm_campaign=veyravel)** ([Codester · $14](https://www.codester.com/items/76079/veyravel-3d-android-action-game-godot?ref=Gr8Man)).
-- **[Full Gr8 Apps & Games Studio Catalog](https://simple-free-apps.github.io/?utm_source=compose-pcm-sfx&utm_medium=readme&utm_campaign=catalog)** — Including Google Play apps (`Inkear: Offline Speech to Text`, `Chess With Sara: Learn & Play`, `Psycho Mechanics: Physics`, `Liquid Sort Puzzle`, `Orvaleth`) and **[$45 Google Play Publishing Assistance](https://simple-free-apps.github.io/play-publish/?utm_source=compose-pcm-sfx&utm_medium=readme&utm_campaign=publishing)**.
+- **[Soravel: Puzzle Pack 5-in-1 — $14 on Codester](https://www.codester.com/items/76186/puzzle-pack-5-in-1-kotlin-android-game-bundle?ref=Gr8Man)** — 5 full Jetpack Compose puzzle games (`1,928+` levels).
+- **[Kivorivane (1,200 Kite-Escape Levels) — $14 on Codester](https://www.codester.com/items/76093/kivorivane-1000-levels-kite-escape-kotlin?ref=Gr8Man)**.
+- **[Orvaleth (Godot 4 3D Clockwork Puzzle) — $14 on Codester](https://www.codester.com/items/76144/orvaleth-godot-3d-clockwork-puzzle-game?ref=Gr8Man)**.
+- **[Veyravel (Godot 4 3D Action Roguelite) — $14 on Codester](https://www.codester.com/items/76079/veyravel-3d-android-action-game-godot?ref=Gr8Man)**.
+- **[Full Gr8 Apps & Games Studio Catalog](https://simple-free-apps.github.io/?utm_source=compose-pcm-sfx&utm_medium=readme&utm_campaign=catalog)** — Including Google Play apps (`Inkear: Offline Speech to Text`, `Chess With Sara: Learn & Play`, `Psycho Mechanics: Physics`, `Liquid Sort Puzzle`, `Orvaleth`).
 
 *Disclosure: Codester links include the publisher's `?ref=Gr8Man` referral code.*
 
