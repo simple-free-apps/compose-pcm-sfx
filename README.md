@@ -73,15 +73,17 @@ Requires Android Studio / Gradle 9.6 / JDK 17 / Android SDK 37:
 
 ## Try Interactive Game Demos & Production Android Source Kits
 
-We use this exact zero-asset `AudioTrack` synthesis approach in our open-source starter and offer full commercial Android game projects on **Codester**:
+We use this exact zero-asset `AudioTrack` synthesis approach in our open-source starter and offer full commercial Android game projects on **Codester** and **SellAnyCode**:
 
+- **[Compare All 10 Source Kits + Live Tests](https://simple-free-apps.github.io/source-kits/?utm_source=compose-pcm-sfx&utm_medium=readme&utm_campaign=matrix)** — Side-by-side levels, engine stack, 8 Google Play live builds, and 16:9 video walkthroughs.
 - **[Play Interactive Browser Puzzle Demos](https://simple-free-apps.github.io/demo/?utm_source=compose-pcm-sfx&utm_medium=readme&utm_campaign=live_demo)** — Try Liquid Sort, LanternLoom, and Kivorivane mechanics directly in your browser.
 - **[ChromaCircuit Starter (Free 5-Level Compose Puzzle Repo)](https://github.com/simple-free-apps/android-compose-puzzle-starter)** — Real-world game starter demonstrating procedural `AudioTrack` SFX + Compose Canvas.
-- **[Soravel: Puzzle Pack 5-in-1 — $14 on Codester](https://www.codester.com/items/76186/puzzle-pack-5-in-1-kotlin-android-game-bundle?ref=Gr8Man)** — 5 full Jetpack Compose puzzle games (`1,928+` levels).
-- **[Kivorivane (1,200 Kite-Escape Levels) — $14 on Codester](https://www.codester.com/items/76093/kivorivane-1000-levels-kite-escape-kotlin?ref=Gr8Man)**.
-- **[Orvaleth (Godot 4 3D Clockwork Puzzle) — $14 on Codester](https://www.codester.com/items/76144/orvaleth-godot-3d-clockwork-puzzle-game?ref=Gr8Man)**.
-- **[Veyravel (Godot 4 3D Action Roguelite) — $14 on Codester](https://www.codester.com/items/76079/veyravel-3d-android-action-game-godot?ref=Gr8Man)**.
-- **[Full Gr8 Apps & Games Studio Catalog](https://simple-free-apps.github.io/?utm_source=compose-pcm-sfx&utm_medium=readme&utm_campaign=catalog)** — Including Google Play apps (`Inkear: Offline Speech to Text`, `Chess With Sara: Learn & Play`, `Psycho Mechanics: Physics`, `Liquid Sort Puzzle`, `Orvaleth`).
+- **Soravel: Puzzle Pack 5-in-1** — 5 full Jetpack Compose puzzle games (`1,928+` levels): **[Codester · $14](https://www.codester.com/items/76186/puzzle-pack-5-in-1-kotlin-android-game-bundle?ref=Gr8Man)** · **[SellAnyCode · $29](https://www.sellanycode.com/item.php?id=28630)** · **[16:9 Demo Video](https://www.youtube.com/watch?v=XFTPVgakCII)**.
+- **Liquid Sort Puzzle** — Volumetric water-sort puzzle: **[Codester · $14](https://www.codester.com/items/64630/liquid-sort-puzzle-kotlin-android-game-template?ref=Gr8Man)** · **[SellAnyCode · $20](https://www.sellanycode.com/item.php?id=28631)** · **[16:9 Video](https://www.youtube.com/watch?v=X3z5HdDfmYY)** · **[Google Play](https://play.google.com/store/apps/details?id=com.gr8.games.liquidsortpuzzle)**.
+- **Kivorivane (1,200 Kite-Escape Levels)** — **[Codester · $14](https://www.codester.com/items/76093/kivorivane-1000-levels-kite-escape-kotlin?ref=Gr8Man)** · **[Google Play](https://play.google.com/store/apps/details?id=com.mirveki.savureth.kivorivane)** · **[16:9 Video](https://www.youtube.com/watch?v=1FEwvlkDMkw)**.
+- **Orvaleth (Godot 4 3D Clockwork Puzzle)** — **[Codester · $14](https://www.codester.com/items/76144/orvaleth-godot-3d-clockwork-puzzle-game?ref=Gr8Man)** · **[SellAnyCode · $20](https://www.sellanycode.com/item.php?id=28633)** · **[Google Play](https://play.google.com/store/apps/details?id=com.valkora.serenth.orvaleth)**.
+- **Veyravel (Godot 4 3D Action Roguelite)** — **[Codester · $14](https://www.codester.com/items/76079/veyravel-3d-android-action-game-godot?ref=Gr8Man)** · **[SellAnyCode · $20](https://www.sellanycode.com/item.php?id=28634)**.
+- **[Full Gr8 Apps & Games Studio Catalog (19 Live Apps on Google Play)](https://play.google.com/store/apps/dev?id=7078150569870376778)** · **[Studio Portal](https://simple-free-apps.github.io/?utm_source=compose-pcm-sfx&utm_medium=readme&utm_campaign=catalog)**.
 
 *Disclosure: Codester links include the publisher's `?ref=Gr8Man` referral code.*
 
